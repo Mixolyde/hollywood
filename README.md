@@ -1,8 +1,16 @@
-Launch Byobu
-Open a random number of splits, random sizes
-In each split, run a noisy text app
+= About
 
-Rules:
+= Installation
+
+
+= Features
+
+* Launch Byobu
+* Open a random number of splits, random sizes
+* In each split, run a noisy text app
+
+= Rules for Modules
+
  - Must work as a non-root user
  - Must display information indefinitely (a la "watch", or cmatrix)
    + Can use a while/true + a timeout
@@ -11,7 +19,7 @@ Rules:
  - Must not be too egregious with I/O
  - Must not require outbound internet access
 
-Sample Apps:
+= Modules
  - atop		# xxx Root
  - bmon		# DONE
  - cmatrix	# DONE
@@ -39,3 +47,4 @@ Sample Apps:
  - top
  - tiptop
  - vnstat
+
