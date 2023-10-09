@@ -1,5 +1,6 @@
 # About
 
+
 # Installation
 
 
@@ -13,38 +14,29 @@
 
  - Must work as a non-root user
  - Must display information indefinitely (a la "watch", or cmatrix)
-   + Can use a while/true + a timeout
- - Must not OOM a system
+   - Can use a while/true + a timeout
+ - Must not Out Of Memory a system
  - Must not over load a system
  - Must not be too egregious with I/O
  - Must not require outbound internet access
 
-# Modules
- - atop		# xxx Root
+# Completed Modules
+ - apg
+ - atop		# Works as a regular user, but with less info
  - bmon		# DONE
  - cmatrix	# DONE
- - dnstop	# xxx Root
- - ethstatus
- - glances
+ - code     # DONE
+ - errno
+ - hexdump
  - htop
- - ifstat
- - iotop
- - iptotal
- - iptraf-ng
- - itop
- - jnettop
- - kerneltop
- - latencytop
- - logtop
- - netmrg
- - nload
- - nmon
- - ntop
- - powertop
- - sagan
- - slurm
- - snetz
- - top
- - tiptop
- - vnstat
+ - jp2a
+ - logs
+ - man
+ - map
+ - mplayer
+ - speedometer
+ - sshart
+ - stat
+ - tree
+
 

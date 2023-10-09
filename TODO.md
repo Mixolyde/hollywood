@@ -11,4 +11,28 @@
 [ ] Random colors for cmatrix
 
 # Modules To Add
+ - dnstop	# xxx Root
+ - ethstatus
+ - glances
+ - htop
+ - ifstat
+ - iotop
+ - iptotal
+ - iptraf-ng
+ - itop
+ - jnettop
+ - kerneltop
+ - latencytop
+ - logtop
+ - netmrg
+ - nload
+ - nmon
+ - ntop
+ - powertop
+ - sagan
+ - slurm
+ - snetz
+ - top
+ - tiptop
+ - vnstat
 
