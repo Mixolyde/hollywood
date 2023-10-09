@@ -1,7 +1,17 @@
 # About
-Hollywood is a utility will split a computer console into a multiple panes of genuine technical melodrama, perfectly suitable for busy-looking computers in the background.
+_Hollywood_ is a utility will split a computer console into a multiple panes of 
+genuine technical melodrama, perfectly suitable for busy-looking computers in the background.
 
 # Installation
+## On Ubuntu or Debian
+```
+sudo apt install -y hollywood --install-recommends && hollywood
+```
+
+## Run in Docker
+```
+docker run -it --rm jess/hollywood
+```
 
 
 # Features

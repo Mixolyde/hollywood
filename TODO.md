@@ -6,6 +6,7 @@
 * don't depend on $RANDOM (so that we can use $SHELL)
 
 # Bugs
+* Use named tmux session to avoid collisions
 
 # Modules To Improve
 [ ] Random colors for cmatrix
