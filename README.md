@@ -20,7 +20,8 @@ docker run -it --rm jess/hollywood
 * Open a random number of splits, random sizes
 * In each split, run a noisy text app
 
-# Rules for Modules
+# Modules
+## Rules for Modules
 
  - Must work as a non-root user
  - Must display information indefinitely (a la "watch", or cmatrix)
@@ -30,7 +31,7 @@ docker run -it --rm jess/hollywood
  - Must not be too egregious with I/O
  - Must not require outbound internet access
 
-# Completed Modules
+## Completed Modules
  - apg
  - atop		# Works as a regular user, but with less info
  - bmon		# DONE
