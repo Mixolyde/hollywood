@@ -1,15 +1,15 @@
-= About
+# About
 
-= Installation
+# Installation
 
 
-= Features
+# Features
 
 * Launch Byobu
 * Open a random number of splits, random sizes
 * In each split, run a noisy text app
 
-= Rules for Modules
+# Rules for Modules
 
  - Must work as a non-root user
  - Must display information indefinitely (a la "watch", or cmatrix)
@@ -19,7 +19,7 @@
  - Must not be too egregious with I/O
  - Must not require outbound internet access
 
-= Modules
+# Modules
  - atop		# xxx Root
  - bmon		# DONE
  - cmatrix	# DONE
