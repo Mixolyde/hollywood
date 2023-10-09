@@ -1,6 +1,6 @@
 # About
-_Hollywood_ is a utility will split a computer console into a multiple panes of 
-genuine technical melodrama, perfectly suitable for busy-looking computers in the background.
+_Hollywood_ is a utility that will split a computer console into multiple panes of 
+genuine technical melodrama, perfectly suitable for busy-looking computers in the background of a tv show or movie.
 
 # Installation
 ## On Ubuntu or Debian
