@@ -1,5 +1,5 @@
 # About
-
+Hollywood is a utility will split a computer console into a multiple panes of genuine technical melodrama, perfectly suitable for busy-looking computers in the background.
 
 # Installation
 
