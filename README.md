@@ -13,7 +13,7 @@ sudo apt install -y hollywood --install-recommends && hollywood
 docker run -it --rm jess/hollywood
 ```
 
-## View the (Source Code)[https://github.com/dustinkirkland/hollywood]
+## View the [Source Code](https://github.com/dustinkirkland/hollywood)
 ```
 git clone https://github.com/dustinkirkland/hollywood.git
 ```
