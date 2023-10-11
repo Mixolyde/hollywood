@@ -1,4 +1,4 @@
-# General 
+# Features 
 * Ensure no module fails if the command is not installed
 * Always create windows greater than a minimum size
   (many ncurses programs will complain if the window is too small)

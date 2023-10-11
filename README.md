@@ -37,10 +37,10 @@ git clone https://github.com/dustinkirkland/hollywood.git
 
 ## Completed Modules
  - apg
- - atop		# Works as a regular user, but with less info
- - bmon		# DONE
- - cmatrix	# DONE
- - code     # DONE
+ - atop - Works as a regular user, but with less info
+ - bmon - DONE
+ - cmatrix - DONE
+ - code - DONE
  - errno
  - hexdump
  - htop
@@ -48,9 +48,9 @@ git clone https://github.com/dustinkirkland/hollywood.git
  - logs
  - man
  - map
- - mplayer
- - speedometer
- - sshart
+ - mplayer - converts soundwave video go ascii, performance hog
+ - speedometer - network traffic monitor
+ - sshart - generates ssh keys
  - stat
  - tree
 
